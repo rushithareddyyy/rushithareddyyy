@@ -94,8 +94,8 @@ I thrive in **high-impact environments**, leading **multi-disciplinary teams** t
 ## 📫 Connect with Me  
 
 📧 Email: [rushithaanugu01@gmail.com](mailto:rushithaanugu01@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/rushithaanugu](https://linkedin.com/in/rushithaanugu)  
-📂 Portfolio: [GitHub](https://github.com/your-github-profile)  
+💼 LinkedIn: [linkedin.com/in/rushithaanugu](https://linkedin.com/in/rushithaa)  
+📂 Portfolio: [GitHub](https://github.com/rushithareddyyy))  
 
 ---
 
