@@ -1,4 +1,5 @@
-# 🚀 Rushitha Anugu  
+# Rushitha Anugu  
+Software Developer
 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-Expert-blue)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Azure%7CGCP-green)
@@ -8,9 +9,7 @@
 
 ---
 
-## 🏆 About Me  
-
-I am a **versatile and results-driven Data Engineer** with a strong track record of delivering **high-performance, scalable, and intelligent data solutions**. My expertise spans across **cloud platforms, AI/ML automation, real-time data streaming, and enterprise data warehousing**.  
+## About Me    
 
 🔹 **Expert in:** Cloud-based analytics, AI/ML pipeline automation, real-time data processing  
 🔹 **Passionate about:** Data-driven decision-making, scalable architectures, high-performance computing  
@@ -20,7 +19,7 @@ I am a **versatile and results-driven Data Engineer** with a strong track record
 
 ## 🔧 Tech Stack & Tools  
 
-### 📌 **Programming Languages**  
+### **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -60,7 +59,7 @@ I am a **versatile and results-driven Data Engineer** with a strong track record
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### 🗳 **Election Prediction using Sentiment Analysis**  
 🔹 Implemented ML algorithms (SVM, Naïve Bayes) for sentiment analysis  
@@ -76,28 +75,11 @@ I am a **versatile and results-driven Data Engineer** with a strong track record
 🔹 Built **real-time event processing** pipelines using Kafka & Spark  
 🔹 Automated AI/ML workflows for **predictive analytics**  
 🔹 Optimized data models to support **high-volume data processing**  
+ 
 
 ---
 
-## 💼 Professional Experience  
-
-### 📌 *Data Engineer*  
-🔹 Architected & optimized **Azure-based data warehouse**  
-🔹 Automated data pipelines using **Databricks, Kafka, and Spark**  
-🔹 Built **interactive dashboards** for business intelligence  
-
-### 📌 *Software Engineer*  
-🔹 Engineered **scalable RESTful APIs** with **Spring Boot**  
-🔹 Developed **React & Angular** UI components for data-driven applications  
-🔹 Enhanced **database efficiency** through SQL query optimization  
-
-### 📌 *Associate Analyst*  
-🔹 Designed **Power BI dashboards** for real-time analytics  
-🔹 Implemented **data models** for structured insights  
-
----
-
-## 📫 Connect with Me  
+## Connect with Me  
 
 📧 Email: [rushithaanugu01@gmail.com](mailto:rushithaanugu01@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/rushithareddy](https://linkedin.com/in/rushithaa)  
