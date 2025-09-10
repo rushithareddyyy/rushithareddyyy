@@ -1,4 +1,4 @@
-# Hi, I'm Data Engineer #
+# Hi, I'm a Data Engineer #
 
  Cloud-Native Architect · Real-Time Pipelines · ML-Ready Platforms
 
